@@ -51,3 +51,7 @@ if st.button("🎮 Play"):
 # Footer
 st.markdown("---")
 st.markdown("🎮 Made with fun by **Hamza Syed**")
+
+
+# Check out the output
+# https://rock-paper-sciapprsgame-krjfnpgznmm28kstkltwwg.streamlit.app/
